@@ -1,0 +1,17 @@
+.myAddedForContainer
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+.myAddedForButton
+{
+    align-items: center;
+    justify-content: center;
+    font-weight: bolder;
+    color: green;
+    display: flex;
+    text-align: center;
+    width: 16%;
+}
